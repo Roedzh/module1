@@ -104,8 +104,8 @@ img{
     flex-direction: column;
     background-image: url(arts/image_back.png);
     background-size: cover;
-    width: auto;
-    height: 100%;
+    width: 100vw;
+    height: 100vh;
     color: white;
     opacity: 0.9;
 }
