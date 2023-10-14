@@ -178,6 +178,8 @@ footer:hover{
 .third{
     background-image: url(arts/third_slide.jpg);
     background-size: cover;
+    width: 100vw;
+    height: 100vh;
     margin-left: 7vw;
     position: relative;
     display: flex;
