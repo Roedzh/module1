@@ -104,7 +104,7 @@ img{
     flex-direction: column;
     background-image: url(arts/image_back.png);
     background-size: cover;
-    width: 91vw;
+    width: 91.5vw;
     height: 100vh;
     color: white;
     opacity: 0.9;
@@ -178,7 +178,7 @@ footer:hover{
 .third{
     background-image: url(arts/third_slide.jpg);
     background-size: cover;
-    width: 100vw;
+    width: 91.5vw;
     height: 100vh;
     margin-left: 7vw;
     position: relative;
