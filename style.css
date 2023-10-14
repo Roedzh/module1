@@ -161,6 +161,7 @@ img{
 }
 footer{
     display: flex;
+    justify-content: space-around;
     margin-bottom: 3%;
     align-items: center;
     align-self: center;
